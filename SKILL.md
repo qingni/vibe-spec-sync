@@ -1,3 +1,9 @@
+---
+name: vibe-spec-sync
+description: 用于保持 Vibe Coding 变更与 Spec 文档同步的 Skill
+version: 1.0.0
+---
+
 # Vibe-Spec-Sync Skill
 
 ## 概述
