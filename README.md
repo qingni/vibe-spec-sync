@@ -37,7 +37,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/vibe-spec-sync.git
+git clone https://github.com/qingni/vibe-spec-sync.git
 
 # 将 SKILL.md 添加到你的项目或 AI 工具配置中
 ```
